@@ -1,0 +1,2 @@
+The Shared Resource is accessed and manipulated by first process in the semaphore program.
+The Second process is also accessing shared resource now after a wait on the queue.

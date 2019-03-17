@@ -1,0 +1,2 @@
+Here, the shared resource that is the file to be read is manipulated by first process as we had seen on our text /Word document description.
+This is the second process that is accessing the shared file
