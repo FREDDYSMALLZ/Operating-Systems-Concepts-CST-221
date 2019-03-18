@@ -1,0 +1,10 @@
+The Producer is creating the number to the file: 21
+The Producer is creating the number to the file: 24
+Consumer is consuming number : 21
+The Producer is creating the number to the file: 5
+Consumer is consuming number : 24
+The Producer is creating the number to the file: 32
+Consumer is consuming number : 5
+The Producer is creating the number to the file: 30
+Consumer is consuming number : 32
+Consumer is consuming number : 30
